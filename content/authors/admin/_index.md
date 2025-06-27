@@ -165,6 +165,5 @@ awards:
 
 ### About Me
 
-I am Youmin Li, a PhD student in AgEcon.
 
 
