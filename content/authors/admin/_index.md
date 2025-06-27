@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李友民
+title: Youmin Li (李友民)
 
 # Name pronunciation (optional)
-name_pronunciation: Youmin Li
+name_pronunciation: Youmin li
 
 # Full name (for SEO)
 first_name: Youmin
@@ -20,102 +20,109 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AgEcon PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Florida
-    url: https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/people/
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:liyoumin@ufl.edu'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/liyoumin
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/youmin-li-1467892a1/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/0009-0000-2750-1401
+    url: https://orcid.org/
+
 interests:
-  - Agricultural Economic Policy
-  - Rangeland
-  - GIS and Remote Sensing Application AgEcon
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Agricultural Economics
+  - area: PhD AgEcon
     institution: University of Florida
-    date_start: 2024-08-01
-    date_end: 2028-5-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Three Essays on Impacts of Livestocks Production.
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com not yet'
-  - area: M.A. in Agricultural & Resources Economics
-    institution: Seoul National University
-    date_start: 2023-08-01
-    date_end: 2024-7-31
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0 
-  - area: Erasmus M.Sc. in Rural Development
-    institution: Ghent University; Humboldt University zu Berlin; Pisa Univeristy
-    date_start: 2022-08-01
-    date_end: 2024-7-31
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 17/20 
-  - area: BSc Agricultural & Forest Economics and Management
-    institution: Lanzhou University
-    date_start: 2017-09-01
-    date_end: 2021-6-31
-    summary: |
-      GPA: 3.3/4.0
+      GPA: 3.4/4.0
       
-      Summer School of "Applied Micrometric Economics" for graduate students in Shanghai. 2021
-      Summer School of Econometric for graduate students in Jiangsu Province Government.2022
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: TA
-    company_name: UF
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2024-08-15
+    date_start: 2021-01-01
     date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Courses include:
-      - Agricultural Data Analysis (AEB3550); International Development Policy (AEB4283)
-  - position: RA
-    company_name: EIAP; Peking University - CCAP
-    company_url: 'https://fred.ifas.ufl.edu/extension/economic-impact-analysis-program/'
-    company_logo: 'http://www.ccap.pku.edu.cn/ywzd/index.htm'
-    date_start: 2019-07-01
-    date_end:
-    summary: |
-      Projects include:
-      - Agro-ecosystem Service Payment
-      - Dairy Livestock - USDA
-      - “National Grassland Agriculture Modernization Strategy Research Project”
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: R
+      - name: Python
         description: ''
+        percent: 80
         icon: code-bracket
-      - name: Stata
+      - name: Data Science
         description: ''
+        percent: 100
         icon: chart-bar
-      - name: ArcGIS
+      - name: SQL
         description: ''
+        percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -123,47 +130,61 @@ skills:
     items:
       - name: Hiking
         description: ''
+        percent: 60
         icon: person-simple-walk
-      - name: Classical Piano Music
+      - name: Cats
         description: ''
-        icon: piano
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
-    percent: 80
-  - name: Chinese
     percent: 100
-  - name: Spanish; Korean
-    percent: A2
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: AAEA Section Sponsored Travel Grant (COSBAE) 
-    url: https://www.aaea.org/meetings/2025-aaea-annual-meeting/about/open-calls/selected-presentation-papers-and-posters
-    date: '2025-7-29'
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
     icon: coursera
-  - title: Grinter Fellowship
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2024-2025'
+    date: '2023-07-01'
+    awarder: edX
     icon: edx
-  - title: SNU Global Subsidy Scholarship
-    url: https://are.snu.ac.kr/en/about-us/about-are/
-    date: '2023-11-21'
-  - title: Erasmus Scholarship
-    url: https://www.imrd.ugent.be/
-    date: '2023-11-21'
-  - title: 3rd. Prize of the 12th National University Mathematics Competition 
-    url: https://www.imrd.ugent.be/
-    date: '2020-1-21'  
-  - title: 2nd Prize of the 4th National University Business English Competition 
-    url: https://www.imrd.ugent.be/
-    date: '2019-11-01'
+    summary: |
+      Learned:
+      - Synthesize your own blockchain solutions
+      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  - title: 'Object-Oriented Programming in R'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: datacamp
+    icon: datacamp
+    summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+---
 
+## About Me
 
-### About Me
+Youmin Li is a PhD candidate of AgEcon at the University of Florida. His research interests include mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
 
 
 
